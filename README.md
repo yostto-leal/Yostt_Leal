@@ -1,4 +1,4 @@
-# Yostt_Leal
+# yostto-leal
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yostto-leal)](https://github.com/yostto-leal/github-readme-stats)
 
